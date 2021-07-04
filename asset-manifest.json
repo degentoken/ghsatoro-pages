@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.7eb0bb14.chunk.js": "/static/js/0.7eb0bb14.chunk.js",
+    "main.css": "/static/css/main.09e95890.chunk.css",
+    "main.js": "/static/js/main.fda60c3e.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d0a80008.js",
+    "static/js/3.72f92733.chunk.js": "/static/js/3.72f92733.chunk.js",
+    "static/js/4.672e150e.chunk.js": "/static/js/4.672e150e.chunk.js",
+    "static/js/5.252e6132.chunk.js": "/static/js/5.252e6132.chunk.js",
+    "static/js/6.31c368ad.chunk.js": "/static/js/6.31c368ad.chunk.js",
+    "static/js/7.c7807205.chunk.js": "/static/js/7.c7807205.chunk.js",
+    "static/js/8.033b7fdc.chunk.js": "/static/js/8.033b7fdc.chunk.js",
+    "static/js/9.9c05a290.chunk.js": "/static/js/9.9c05a290.chunk.js",
+    "static/js/10.efaaa9f6.chunk.js": "/static/js/10.efaaa9f6.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.1e32c8b48c7304cbefaddc0a867a77e8.js": "/precache-manifest.1e32c8b48c7304cbefaddc0a867a77e8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.72f92733.chunk.js.LICENSE.txt": "/static/js/3.72f92733.chunk.js.LICENSE.txt",
+    "static/js/5.252e6132.chunk.js.LICENSE.txt": "/static/js/5.252e6132.chunk.js.LICENSE.txt",
+    "static/js/6.31c368ad.chunk.js.LICENSE.txt": "/static/js/6.31c368ad.chunk.js.LICENSE.txt",
+    "static/js/7.c7807205.chunk.js.LICENSE.txt": "/static/js/7.c7807205.chunk.js.LICENSE.txt",
+    "static/js/8.033b7fdc.chunk.js.LICENSE.txt": "/static/js/8.033b7fdc.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.38d74ae5.svg",
+    "static/media/binance-wallet.svg": "/static/media/binance-wallet.1aeef708.svg",
+    "static/media/cms.png": "/static/media/cms.a0a73714.png",
+    "static/media/fCMS-250x250.png": "/static/media/fCMS-250x250.6f06d0e7.png",
+    "static/media/metamask-fox.svg": "/static/media/metamask-fox.152f1e5a.svg",
+    "static/media/pCMS-250x250.png": "/static/media/pCMS-250x250.4ba1e0a4.png",
+    "static/media/pill_axuled.png": "/static/media/pill_axuled.5f96662b.png",
+    "static/media/pill_trinks.png": "/static/media/pill_trinks.a7bc11f7.png",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.1bcaf69b.svg",
+    "static/media/wallet_overview_bg.png": "/static/media/wallet_overview_bg.21c83ebc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0a80008.js",
+    "static/js/3.72f92733.chunk.js",
+    "static/css/main.09e95890.chunk.css",
+    "static/js/main.fda60c3e.chunk.js"
+  ]
+}
